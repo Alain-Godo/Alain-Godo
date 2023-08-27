@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Alain-Godo
+- 👀 I’m interested in IoT and AI projects. I love math and how it can be used to improve every code out there! 
+- 🌱 I’m currently learning topics about artificial neural networks and embedded system programming.
